@@ -107,6 +107,8 @@ a{
 {
     .main-container{
         flex-direction: column;
+        height:100vh;
+        width:80vw;
     }
     .right-section div{
         margin-bottom:20px;
